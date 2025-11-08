@@ -2,7 +2,7 @@
 
 На графике ниже представлена зависимость значения BER от отношения сигнал/шум при модуляции QPSK,QAM16,QAM64:
 
-![image](https://github.com/user-attachments/assets/d7f5745a-0276-4f72-a123-972140922d67)
+<img width="1200" height="946" alt="123" src="https://github.com/user-attachments/assets/86a79e17-eceb-4528-9f0b-cfa1d4a8aed9" />
 
 Ошибка с ненулевым значением BER при СКО = 0 - исправлена.
 Ось х графика была замененена на отношение сигнал/шум(изначально было СКО)
